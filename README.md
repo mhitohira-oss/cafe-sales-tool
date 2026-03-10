@@ -10,14 +10,14 @@ G,2には数量を入れてください。<br>
 ![画面](screenshot.jpg)
 
 ## 機能
-・商品入力
-・数量入力
-・合計計算
+・商品入力<br>
+・数量入力<br>
+・合計計算<br>
 
 ## 使用技術
-・Excel
-・VBA
+・Excel<br>
+・VBA<br>
 ## バージョン
-version 0.1
-数量×単価
+version 0.1<br>
+数量×単価<br>
 
