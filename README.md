@@ -23,3 +23,12 @@ version 0.1<br>
 商品マスタ‘<br>
 version 0.2<br>
 商品をプルダウンリスト化
+version0.4 <br>
+入力チェック <br>
+version0.5 <br>
+入力クリア <br>
+version0.6  <br>
+売上合計  <br>
+version0.7 <br>
+商品別売上  <br>
+
