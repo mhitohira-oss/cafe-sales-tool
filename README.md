@@ -22,7 +22,7 @@ version 0.1<br>
 数量×単価<br>
 商品マスタ‘<br>
 version 0.2<br>
-商品をプルダウンリスト化
+商品をプルダウンリスト化<br>
 version0.4 <br>
 入力チェック <br>
 version0.5 <br>
